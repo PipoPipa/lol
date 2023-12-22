@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Profile</title>
+    <link href='./style.css' rel='stylesheet'>
+    <script src="https://gist.githubusercontent.com/karasuma-vinhtran/98ab2344a36c1897abe354a030212272/raw/1e514662e5101ebe6717e5677b6100f3a11a7594/gistfile1.js"></script>
+</head>
+
+<body>
+    <div id="main">
+        <div id="header">
+            <div class="background"></div>
+            <div class="information">
+                <div class="div-avatar">
+                    <div class="border-avatar">
+                        <img id="avatar" src="https://drive.google.com/uc?export=download&id=1sdNJ0OW4zuHumTWu4WnIeqSui_TsCZGt">
+                    </div>
+                </div>
+                <div class="div-name-app">
+                    <div class="div-name">
+                        <span>Lâm Nguyên</span>
+                    </div>
+                    <div class="div-app">
+                        <ul>
+                            <li title="Facebook">
+                                <!-- Đổi link Facebook của bạn -->
+                                <a href="https://www.facebook.com/lam.nguyen.ne1836">
+                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=10zur_uDafg5YkgF6h46gWsjEROyiONa_" alt="Icon Facebook">
+                                    <span class="title">Facebook</span>
+                                </a>
+                            </li>
+                            <li title="Instagram">
+                                <!-- Đổi link Instagram của bạn -->
+                                <a href="https://www.instagram.com/_alm.nguywn_/">
+                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=1OQ0s3MU7DMA00ud8z17vfEw6JZir1oqu" alt="Icon Instagram">
+                                    <span class="title">Instagram</span>
+                                </a>
+                            </li>
+                            <li title="TikTok">
+                                <!-- Đổi link TikTok của bạn -->
+                                <a href="https://www.tiktok.com/@_phlamnguyen_">
+                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=1dO33ViDnL7YZda0-9bMYcbBz-x5nYvdi" alt="Icon TikTok">
+                                    <span class="title">TikTok</span>
+                                </a>
+                            </li>
+                            <li title="Github">
+                                <!-- Đổi link Github hoặc App Khác bạn muốn người khác biết tới-->
+                                <a href="https://www.github.com/karasuma-vinhtran">
+                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=1FEw4B3aOVX8tTjuOF7BHdg3Zx6dvw27V" alt="Icon Github">
+                                    <span class="title">Github</span>
+                                </a>
+                            </li>
+                            <li title="Replit">
+                                <!-- Đổi link Replit hoặc App Khác bạn muốn người khác biết tới-->
+                                <a href="https://github.com/PipoPipa">
+                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=13xywKSVnd5WqAZefRiV7rhvnOGCyaCgA" alt="Icon Replit">
+                                    <span class="title">Replit</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Nếu bạn ko có j để sử dụng div project này thì hãy xoá từ D70 -> D101 và xoá file js.js + xoá D107 -->
+        <div id="project">
+            <span class="title">Project Web</span>
+            <span class="tips"></span>
+            
